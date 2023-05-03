@@ -21,4 +21,8 @@ coming soon
 
 
 ## research interests
-coming soon $a^2 + b^2 = c^2$
+coming soon
+{% raw %}
+  $$a^2 + b^2 = c^2$$
+  test $f\colon \mathbb{R} \to \mathbb{R}, ~ x \mapsto x^2 - \frac{1}{\varepsilon}$. 
+{% endraw %}
