@@ -11,6 +11,18 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    
+    <!-- latex -->
+    <script type="text/javascript" id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$']]
+        }
+      };
+    </script>
   </head>
   <body>
     <div class="wrapper">
@@ -49,7 +61,7 @@
         <p>this project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>
-        copyright © attila karsai <br><br>
+        copyright © attila karsai <br>
         <a href="https://akarsai.github.io/legal.html">impressum & datenschutz</a>
         </small><p>
 <!--         <p><small>hosted on github pages &mdash; theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->

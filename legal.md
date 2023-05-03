@@ -12,7 +12,7 @@ Sickingenstr. 8
 
 e-mail: `karsai@math.tu-berlin.de`
 
-### redaktionell verantwortlich
+## redaktionell verantwortlich
 
 ```
 Attila Karsai 
