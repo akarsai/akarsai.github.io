@@ -2,7 +2,7 @@
 
 my name is attila karsai, and i am a phd candidate in mathematics at tu berlin.
 i am working on optimal control of port-hamiltonian systems.
-more on that down below
+more on that down below :)
 
 
 
