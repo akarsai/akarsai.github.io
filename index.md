@@ -9,13 +9,3 @@ coming soon
 
 ## research
 coming soon $$ a^2 + b^2 = c^2 $$
-
-
-
-
-
-
-
-
-
-###### [impressum/datenschutz](./legal.html)
