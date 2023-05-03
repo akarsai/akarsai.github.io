@@ -22,7 +22,7 @@ Sickingenstr. 8
 
 # datenschutzerklärung
 
-## Hosting
+## hosting
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
 - IP-Adresse,
