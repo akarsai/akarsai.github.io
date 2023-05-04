@@ -28,7 +28,7 @@ f\colon \mathbb{R} \to \mathbb{R}, ~ x \mapsto x^2 - \frac{1}{\varepsilon}
 ## cv
 - **may 2022 - today:** phd candidate in mathematics
 - **october 2016 - february 2022:** bachelors & masters in mathematics
-    - master thesis: `structure-preserving control of port-hamiltonian systems` 
-    - bachelor thesis: `computation of the distance to instability for large systems`
+    - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten.
+    - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann.
 
 
