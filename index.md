@@ -17,7 +17,12 @@ more on that down below :)
 
 
 ## publications
-coming soon
+
+| year | title                                                        | authors          | note      |
+| ---- | ------------------------------------------------------------ | ---------------- | --------- |
+| 2023 | [structure-preserving \\(\mathcal{H}_{\infty}\\) control for port-hamiltonian systems](https://doi.org/10.1016/j.sysconle.2023.105493) | t. breiten, a. karsai | published |
+| 2023 | [manifold turnpikes of nonlinear port-hamiltonian descriptor systems under minimal energy supply](https://arxiv.org/abs/2301.09094) | a. karsai             | preprint  |
+
 
 
 
@@ -31,4 +36,4 @@ test
 \\[
 f\colon \mathbb{R} \to \mathbb{R}, ~ x \mapsto x^2 - \frac{1}{\varepsilon}
 \\]
-  
+

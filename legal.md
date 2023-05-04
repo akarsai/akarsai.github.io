@@ -10,7 +10,7 @@ Sickingenstr. 8
 
 ## kontakt
 
-e-mail: `karsai@math.tu-berlin.de`
+e-mail: `karsai [at] math [dot] tu-berlin [dot] de`
 
 ## redaktionell verantwortlich
 
