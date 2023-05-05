@@ -1,8 +1,6 @@
 # todo
 
-- light/dark theme
 - better font
-- list of papers with link / color 
 - math research
-- latex support that is actually working
+- fix dark mode code blocks
 - impressum / netzDG (externe links hinzufügen)
