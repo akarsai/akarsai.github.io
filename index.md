@@ -1,5 +1,5 @@
 my name is attila karsai.
-i am a phd candidate in mathematics at tu berlin.
+i am a phd candidate at the institute of mathematics of tu berlin.
 currently, i am working on optimal control of port-hamiltonian systems.
 
 
