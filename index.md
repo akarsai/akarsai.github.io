@@ -2,18 +2,13 @@ my name is attila karsai.
 i am a phd candidate at the institute of mathematics of tu berlin.
 currently, i am working on optimal control of port-hamiltonian systems.
 
-
+<br>
 
 ## research interests
-coming soon
+- port-hamiltonian systems, both linear and nonlinear
+- optimal control, specifically structured optimal control and turnpike properties
 
-\\(
-a^2 + b^2 = c^2
-\\)
-test 
-\\[
-f\colon \mathbb{R} \to \mathbb{R}, ~ x \mapsto x^2 - \frac{1}{\varepsilon}
-\\]
+<br>
 
 
 ## publications
@@ -25,10 +20,11 @@ f\colon \mathbb{R} \to \mathbb{R}, ~ x \mapsto x^2 - \frac{1}{\varepsilon}
 
 
 
+<br>
+
 ## cv
-- **may 2022 - today** phd candidate in mathematics
-- **october 2016 - february 2022** bachelors & masters in mathematics
+- **may 2022 - today:** phd candidate in mathematics
+- **october 2016 - february 2022:** bachelors & masters in mathematics
     - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten.
     - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann.
-
 
