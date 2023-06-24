@@ -8,6 +8,8 @@ currently, i am working on optimal control of port-hamiltonian systems.
 - port-hamiltonian systems, both linear and nonlinear
 - optimal control, specifically structured optimal control and turnpike properties
 
+take a look at the [project page](./project.md).
+
 <br>
 
 

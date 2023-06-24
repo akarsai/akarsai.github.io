@@ -7,6 +7,10 @@ bg -> background
 hvr -> hover
 */
 
+.darkmode {
+  filter: invert(100%) brightness(1.2) hue-rotate(220deg);
+}
+
 //colors
 :root {
     //red
