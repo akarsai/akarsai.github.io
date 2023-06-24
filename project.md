@@ -56,7 +56,7 @@ the interconnection with the original system is achieved by using an observed va
 
 <div id="feedback">
   <img src="./assets/img/feedback.png" alt="feedback">
-  <figcaption style="text-align: center;">feedback interconnection of a dynamical system and a controller</figcaption>
+  <figcaption style="text-align: center; color: grey;">feedback interconnection of a dynamical system and a controller</figcaption>
 </div>
 
 <br><br>
@@ -66,7 +66,7 @@ to study the behaviour of optimal controls, we investigate **turnpike phenomena*
 
 <div id="turnpike">
   <img src="./assets/img/turnpike.png" alt="turnpike">
-  <figcaption style="text-align: center;">the turnpike phenomenon visualized</figcaption>
+  <figcaption style="text-align: center; color: grey;">the turnpike phenomenon visualized</figcaption>
 </div>
 <br>
 
@@ -120,7 +120,7 @@ in the figure below, numerical results for an academic system are shown.
 
 <div id="example" style="text-align: center;">
   <img src="./assets/img/example.png" alt="example" style="width: 70%;">
-  <figcaption style="text-align: center;">optimal control and associated trajectories for an academic system</figcaption>
+  <figcaption style="text-align: center; color: grey;">optimal control and associated trajectories for an academic system</figcaption>
 </div>
 <br>
 
