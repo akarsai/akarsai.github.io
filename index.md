@@ -1,13 +1,14 @@
-my name is attila karsai.
+hi! my name is attila karsai.
 i am a phd candidate at the institute of mathematics of tu berlin funded by the german research foundation within subproject [b03](https://gepris.dfg.de/gepris/projekt/259091447) of the [trr154](https://gepris.dfg.de/gepris/projekt/239904186?language=en).
-currently, i am working on optimal control of port-hamiltonian systems.
-take a look at the [project page](./project.md).
+the project concerns optimal control of port-hamiltonian systems.
+take a look at the [project page](./project.md) to learn more!
 
 <br>
 
 ## research interests
 - port-hamiltonian systems, both linear and nonlinear
 - optimal control, specifically structured optimal control and turnpike properties
+- model reduction for nonlinear port-hamiltonian systems
 
 <br>
 
