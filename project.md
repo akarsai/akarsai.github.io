@@ -12,8 +12,7 @@ in the long run, this helps to save resources and to counteract climate change.
 and it is this optimization where our story begins!
 
 to make the mathematical models more accurate, we aim for dynamical systems that have a specific structure.
-in the past, physical laws behind the phenomena have often been neglected.
-one example is the principle of energy conservation, which states that energy can not be created.
+as a motivation, we can think of the principle of energy conservation, which states that energy can not be created.
 as all real-world phenomena follow this law, models that aim for high accuracy should incorporate this principle.
 one approach to achieve this is by modeling with **port-hamiltonian** systems.
 these systems are a special class of dynamical systems that stem from energy-based modeling.
@@ -100,7 +99,7 @@ $$
 
 for linear systems, special solutions of such matrix equations define the optimal control.
 in [2] and [3], these equations were modified in a specific way that ensured that the corresponding controller could be formulated as a port-hamiltonian system.
-we plan to investigate this problem also for nonlinear system.
+we plan to investigate this problem also for nonlinear systems.
 for nonlinear systems, the algebraic riccati equation is replaced by the **hamilton-jacobi-bellman equation** [1], which is a partial differential equation.
 this equation involves the value function of the optimal control problem, which is a function that maps initial data for the dynamical system to the optimal value of the cost functional for that data.
 
@@ -109,7 +108,7 @@ this equation involves the value function of the optimal control problem, which 
 
 <br><br>
 ## results and future research
-in the preprint [9] we have shown that, under smoothness assumptions on the system dynamics, the optimal control problem (1) admits a turnpike.
+in [9] we have shown that, under smoothness assumptions on the system dynamics, the optimal control problem (1) admits a turnpike.
 the turnpike is given by a smooth submanifold of $$\mathbb{R}^n$$ that is associated with the energy-dissipating part of the system dynamics, namely 
 
 $$
