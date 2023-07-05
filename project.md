@@ -23,13 +23,9 @@ this means that the dynamical system is decomposed into parts that
 - dissipate energy.
 
 here, energy dissipation means that energy is converted in such a way that it becomes unusable in practice, such as, e.g., wasted heat.
-we can illustrate this modeling viewpoint using the example of a car.
-for a car, the energy storing element is the tank, which stores chemical energy in the form of gasoline.
-in the motor of the car, controlled explosions burn gasoline to turn the chemical energy into kinetic energy.
-this corresponds to distributing energy throughout the system.
-however, as we all know, explosions also generate heat.
-for a car, this heat energy goes to waste since it can no longer be used to drive the car forward.
-this corresponds to energy dissipation.
+we can illustrate this modeling viewpoint using the example of a gas pipe.
+for a gas pipe, the energy is stored in the momentum of the flowing gas.
+further, the transport of the gas is distributing energy throughout the system, and friction in the pipe dissipates energy.
 
 now, having found the appropriate modeling framework for our task, we can focus on another key aspect of dynamical systems: the **control**.
 many dynamical systems can be controlled.
@@ -47,7 +43,7 @@ hence, the optimal path has a very special behaviour.
 as it turns out, similar observations can be made for a large class of dynamical systems, see, e.g., [5,12].
 for port-hamiltonian system specifically, the cost functional of interest is the **supplied energy** to the system, since this cost functional is the best fit for the energy-based modeling framework of port-hamiltonian systems.
 
-to address the second question, a common scheme are **closed-loop** controls, in which the control is calculated based upon a measured quantity of the system, for example the velocity of the car.
+to address the second question, a common scheme are **closed-loop** controls, in which the control is calculated based upon a measured quantity of the system, for example the velocity of the gas.
 standard techniques for this approach do not give us control laws that can be realized by port-hamiltonian systems.
 this is not ideal since this means that we fall out of our modeling framework.
 hence, we are interested in the construction of **structured controllers**, i.e., controllers that have a port-hamiltonian structure.
