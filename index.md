@@ -6,9 +6,9 @@ take a look at the [project page](./project.md) to learn more!
 <br>
 
 ## research interests
-- port-hamiltonian systems, both linear and nonlinear
-- optimal control, specifically structured optimal control and turnpike properties
-- model reduction for nonlinear port-hamiltonian systems
+- port-hamiltonian systems
+- structured optimal control and turnpike properties
+- structured discretization and model reduction for nonlinear port-hamiltonian systems
 
 <br>
 
@@ -17,8 +17,9 @@ take a look at the [project page](./project.md) to learn more!
 
 | year | title                                                        | authors          | note      |
 | ---- | ------------------------------------------------------------ | ---------------- | --------- |
-| 2023 | [structure-preserving \\(\mathcal{H}_{\infty}\\) control for port-hamiltonian systems](https://doi.org/10.1016/j.sysconle.2023.105493) | t. breiten, a. karsai | published |
-| 2023 | [manifold turnpikes of nonlinear port-hamiltonian descriptor systems under minimal energy supply](https://arxiv.org/abs/2301.09094) | a. karsai             | preprint  |
+| 2024 | [energy-consistent petrov-galerkin time discretization of port-hamiltonian systems](https://arxiv.org/abs/2404.12480) | j.giesselmann, <br>a.karsai, <br>t.tscherpel  | preprint  |
+| 2024 | [manifold turnpikes of nonlinear port-hamiltonian descriptor systems under minimal energy supply](https://doi.org/10.1007/s00498-024-00384-7) | a.karsai             | published <br><small style="color:green;">open access</small> |
+| 2023 | [structure-preserving \\(\mathcal{H}_{\infty}\\) control for port-hamiltonian systems](https://doi.org/10.1016/j.sysconle.2023.105493) | t.breiten,<br>a.karsai | published |
 
 
 
