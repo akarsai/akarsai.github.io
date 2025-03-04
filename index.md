@@ -17,6 +17,7 @@ take a look at the [project page](./project.md) to learn more!
 
 | year | title                                                        | authors          | note      |
 | ---- | ------------------------------------------------------------ | ---------------- | --------- |
+| 2025 | [passive feedback control for nonlinear systems](https://arxiv.org/abs/2502.04987) | t.breiten, a.karsai| preprint |
 | 2024 | [nonlinear port-Hamiltonian systems and their connection to passivity](https://arxiv.org/abs/2409.06256) | a.karsai, t.breiten, j.ramme, p.schulze | preprint |
 | 2024 | [energy-consistent petrov-galerkin time discretization of port-hamiltonian systems](https://arxiv.org/abs/2404.12480) | j.giesselmann, a.karsai, t.tscherpel  | preprint |
 | 2024 | [manifold turnpikes of nonlinear port-hamiltonian descriptor systems under minimal energy supply](https://doi.org/10.1007/s00498-024-00384-7) | a.karsai             | published <br><small style="color:green;">open access</small> |
