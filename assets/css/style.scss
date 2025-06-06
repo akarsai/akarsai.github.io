@@ -2,3 +2,21 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+
+
+@media (max-width: 768px) {
+
+    td:nth-child(4),
+    th:nth-child(4) {
+        display: none;
+    } 
+}
+
+@media (max-width: 580px) {
+
+    td:nth-child(1),
+    th:nth-child(1) {
+        display: none;
+    } 
+}
