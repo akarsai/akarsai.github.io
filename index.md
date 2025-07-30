@@ -17,6 +17,7 @@ take a look at the [project page](./project.md) to learn more!
 
 | year | title                                                        | authors          | note      |
 | ---- | ------------------------------------------------------------ | ---------------- | --------- |
+2025 | [structure-preserving discretization and model reduction for energy-based models](https://arxiv.org/abs/2507.21552) | r.altmann, a.karsai, p.schulze | preprint |
 2025 | [passivity encoding representations of nonlinear systems](https://doi.org/10.1109/TAC.2025.3576535) | a.karsai, t.breiten, j.ramme, p.schulze | published <br><small style="color:green;">open access</small> |
 2025 | [energy-consistent petrov-galerkin time discretization of port-hamiltonian systems](https://doi.org/10.5802/smai-jcm.127) | j.giesselmann, a.karsai, t.tscherpel  | published <br><small style="color:green;">open access</small> |
 2025 | [passive feedback control for nonlinear systems](https://arxiv.org/abs/2502.04987) | t.breiten, a.karsai | preprint |
