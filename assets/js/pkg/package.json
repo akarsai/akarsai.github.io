@@ -1,0 +1,15 @@
+{
+  "name": "dg_simulator",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "dg_simulator_bg.wasm",
+    "dg_simulator.js",
+    "dg_simulator.d.ts"
+  ],
+  "main": "dg_simulator.js",
+  "types": "dg_simulator.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}

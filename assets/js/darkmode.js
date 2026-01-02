@@ -3,23 +3,17 @@
 document.addEventListener("DOMContentLoaded", function() {
 
   // Get the container elements
-  var feedback = document.getElementById("feedback");
-  var turnpike = document.getElementById("turnpike");
-  var example = document.getElementById("example");
+  var simulation = document.getElementById("simulation-container");
   
   // Function to handle the dark mode preference change
   function handleDarkModeChange(e) {
     // Check if dark mode is enabled
     if (e.matches) {
       // Dark mode enabled
-      feedback.classList.add("darkmode");
-      turnpike.classList.add("darkmode");
-      example.classList.add("darkmode");
+      simulation.classList.add("darkmode");
     } else {
       // Dark mode disabled
-      feedback.classList.remove("darkmode");
-      turnpike.classList.remove("darkmode");
-      example.classList.remove("darkmode");
+      simulation.classList.remove("darkmode");
     }
   }
   

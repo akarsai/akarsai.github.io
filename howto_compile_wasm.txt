@@ -1,0 +1,9 @@
+first install wasm-pack with
+
+cargo install wasm-pack
+
+then run
+
+wasm-pack build --target web --out-dir assets/js/pkg
+
+

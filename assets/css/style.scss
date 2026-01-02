@@ -20,3 +20,34 @@
         display: none;
     } 
 }
+
+.controls {
+  display: flex;
+  gap: 20px;
+  align-items: center;justify-content: center;
+}
+
+.control-group label,
+.control-group select,
+.control-group input {
+  vertical-align: middle;
+}
+
+#delta-t-slider {
+    accent-color: var(--clr-a-text);
+}
+
+#status.loading {
+    background: #fff3cd;
+    color: #856404;
+}
+
+#status.ready {
+    background: #d4edda;
+    color: #155724;
+}
+
+#status.error {
+    background: #f8d7da;
+    color: #721c24;
+}
