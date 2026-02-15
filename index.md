@@ -28,11 +28,20 @@ take a look below to learn more about my research.
 <br>
 
 ## cv
-- **may 2022 - today:** phd candidate in mathematics
+- **may 2022 - today:** phd candidate in mathematics (expected complection march 2026)
 - **october 2016 - february 2022:** bachelors & masters in mathematics
-    - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten.
-    - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann.
+    - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten
+    - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann
+- **awards:**
+    - [GAMM junior](https://www.gamm-juniors.de/) (2026 - 2028): awarded 3-year GAMM junior status for exceptional thesis in applied mathematics
+    - [best phd talk @ 16th elgersburg workshop](https://www.tu-ilmenau.de/systpde/elgersburg-workshop) (2024): selected by senior researchers for clarity of presentation and research impact
+    - [verein deutscher ingenieure](https://www.vdi.de/) (2022): received recognition for graduates with outstanding exam results
+- **teaching experience:**
+    - numerical mathematics 1 (assistant & tutor): conceptualized and corrected assignments and exams, coordinated tutors, held exercise and tutorial sessions
+    - linear algebra 1+2 (tutor): corrected assignments and exams, held tutorial sessions
 
+
+feel free to reach out for a complete cv
 
 <br>
 
@@ -71,6 +80,14 @@ to illustrate the importance of these questions, below the energy of a nonlinear
     </div>
 
     <div id="plot"></div>
+
+    <div style="text-align: center; font-size: 0.85em;">
+        made with 
+        <a href="https://www.rust-lang.org/" target="_blank">Rust</a>, 
+        <a href="https://webassembly.org/" target="_blank">WebAssembly</a> 
+        and 
+        <a href="https://plotly.com/" target="_blank">plotly</a>
+    </div>
 </div><br>
 
 for the control input $$u=0$$, the energy should not increase.
