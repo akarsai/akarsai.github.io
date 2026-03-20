@@ -29,7 +29,7 @@ take a look below to learn more about my research.
 <br>
 
 ## cv
-- **may 2022 - today:** phd candidate in mathematics (expected complection march 2026)
+- **may 2022 - today:** phd candidate in mathematics (expected completion march 2026)
 - **october 2016 - february 2022:** bachelors & masters in mathematics
     - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten
     - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann
