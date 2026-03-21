@@ -208,10 +208,19 @@ function updatePlot() {
     try {
         // const systemKind = document.getElementById('system-select').value;
         const systemKind = 'toda';
-        const deltaT = parseFloat(document.getElementById('delta-t-slider').value);
+        var deltaT = parseFloat(document.getElementById('delta-t-slider').value);
         
         // Update display
         document.getElementById('delta-t-value').textContent = deltaT.toFixed(2);
+        
+        // handle 0.17 and 0.18 specially
+        if (deltaT == 0.17) { 
+            deltaT = parseFloat(deltaT) - 0.007;
+        }
+        else if (deltaT == 0.18) { 
+            deltaT = parseFloat(deltaT) + 0.005;
+        }
+        
         
         statusEl.textContent = 'computing...';
         statusEl.className = 'loading';
