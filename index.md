@@ -17,7 +17,7 @@ take a look below to learn more about my research.
 
 | year | title                                                        | authors          | note      |
 | ---- | ------------------------------------------------------------ | ---------------- | --------- |
-2026 | [a discrete gradient scheme for preserving qsr-dissipativity](https://arxiv.org/abs/2502.04987) | a.karsai, p.schulze | preprint |
+2026 | [a discrete gradient scheme for preserving qsr-dissipativity](https://arxiv.org/abs/2602.15445) | a.karsai, p.schulze | preprint |
 2025 | [nonlinear systems and passivity: feedback control, model reduction, and time discretization](https://arxiv.org/abs/2502.04987) | t.breiten, a.karsai | preprint |
 2025 | [structure-preserving discretization and model reduction for energy-based models](https://arxiv.org/abs/2507.21552) | r.altmann, a.karsai, p.schulze | preprint |
 2025 | [passivity encoding representations of nonlinear systems](https://doi.org/10.1109/TAC.2025.3576535) | a.karsai, t.breiten, j.ramme, p.schulze | published <br><small style="color:green;">open access</small> |
@@ -62,7 +62,7 @@ key questions are:
 
 to illustrate the importance of these questions, below the energy of a nonlinear passive system is shown after a time-discrete solution was obtained with 
 - the implicit midpoint method (generally *not* structure-preserving for nonlinear systems), and 
-- a discrete gradient method suitable for systems dissipative w.r.t. a quadratic supply rate.
+- a discrete gradient method suitable for systems dissipative w.r.t. a quadratic supply rate (see [this paper](https://arxiv.org/abs/2602.15445)).
 
 <div id="simulation-container">
     <div hidden id="status" class="loading">loading wasm module...</div>
