@@ -1,5 +1,5 @@
 hi! my name is attila.
-i am a phd candidate at the institute of mathematics of tu berlin funded by the german research foundation within subproject [b03](https://gepris.dfg.de/gepris/projekt/259091447) of the [trr154](https://gepris.dfg.de/gepris/projekt/239904186?language=en).
+i am a postdoc at the institute of mathematics of tu berlin funded by the german research foundation within subproject [b03](https://gepris.dfg.de/gepris/projekt/259091447) of the [trr154](https://gepris.dfg.de/gepris/projekt/239904186?language=en).
 take a look below to learn more about my research.
 
 <br>
@@ -28,8 +28,18 @@ take a look below to learn more about my research.
 
 <br>
 
+## phd thesis
+
+| year | title                                                        |
+| ---- | ------------------------------------------------------------ |
+2026 | [nonlinear energy-based systems: modeling, control and numerical realization](https://doi.org/10.14279/depositonce-25690)|
+
+
+<br>
+
 ## cv
-- **may 2022 - today:** phd candidate in mathematics (expected completion march 2026)
+- **march 2026 - today:** postdoc
+- **may 2022 - march 2026:** phd candidate in mathematics
 - **october 2016 - february 2022:** bachelors & masters in mathematics
     - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten
     - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann
