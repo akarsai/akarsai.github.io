@@ -44,6 +44,7 @@ take a look below to learn more about my research.
     - master thesis: `structure-preserving control of port-hamiltonian systems`. supervised by t. breiten
     - bachelor thesis: `computation of the distance to instability for large systems`. supervised by v. mehrmann
 - **awards:**
+    - [young researcher participant @ 13th heidelberg laureate forum](https://www.heidelberg-laureate-forum.org) (2026): selected to attend the 13th hlf, an international meeting of young researchers with laureates in mathematics and computer science
     - [GAMM junior](https://www.gamm-juniors.de/) (2026 - 2028): awarded 3-year GAMM junior status for exceptional thesis in applied mathematics
     - [best phd talk @ 16th elgersburg workshop](https://www.tu-ilmenau.de/systpde/elgersburg-workshop) (2024): selected by senior researchers for clarity of presentation and research impact
     - [verein deutscher ingenieure](https://www.vdi.de/) (2022): received recognition for graduates with outstanding exam results
