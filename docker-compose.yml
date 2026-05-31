@@ -1,0 +1,11 @@
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/site
+      - jekyll-gems:/usr/local/bundle
+
+volumes:
+  jekyll-gems:
